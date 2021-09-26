@@ -1,0 +1,48 @@
+.cuatoi{
+    text-align: center;
+    padding: 8px;
+    
+}
+
+.header{
+    height: 275px;
+}
+
+.logo{
+    
+    padding-left: 130px;
+}
+
+.submenu{
+    text-align: center;
+    color: salmon;
+    margin-top: 15px;
+    font-family: Tahoma;
+    margin-left: 5px;
+    font-weight:bold;
+}
+
+.EF{
+    font-size:xx-large;
+    color:rgb(71, 71, 71);
+    font-family: Tahoma;
+    font-weight: bolder;
+}
+
+.pdf {
+    padding: 20px;
+    border-radius: 45px;
+}
+
+.icon{
+    text-align: center;
+    padding: 35px;
+}
+
+.icon1{
+    margin-right: 10px;
+}
+
+.footertit{
+    text-decoration: none;
+}

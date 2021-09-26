@@ -1,0 +1,106 @@
+.cuatoi{
+    text-align: center;
+    padding: 8px;
+    
+}
+
+.header{
+    height: 125px;
+}
+
+.logo{
+    
+    padding-left: 130px;
+}
+
+.submenu{
+    text-align: center;
+    color: salmon;
+    margin-top: 15px;
+    font-family: Tahoma;
+    margin-left: 5px;
+    font-weight:bold;
+}
+
+.EF{
+    font-size:xx-large;
+    color: gray;
+    font-family: Tahoma;
+    font-weight: bolder;
+}
+
+.pdf {
+    padding: 10px;
+    border-radius: 40px;
+}
+
+.pdf1 {
+    padding: 5px;
+    border-radius: 45px;
+}
+
+.icon{
+    text-align: center;
+    padding: 35px;
+}
+
+.icon1{
+    margin-right: 10px;
+}
+
+.footertit{
+    text-decoration: none;
+}
+
+.hbg {
+    overflow: hidden;
+    width: 1850px;
+    height: 400px;
+    object-fit: cover;
+   
+}
+
+.hbg1 {
+    background-image: url(/Boostrap/img/bg.jpg);
+    height: 350px;
+    width: 1850px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    padding-top: 153px;
+    box-sizing: border-box;
+
+}
+
+.button {
+    color: #afff;
+    background-color:rgb(255, 105, 132);
+    font-size: 20px;
+    border-radius: 7px;
+    border: none;
+}
+
+.form {
+    font-size: 20px;
+    width: 650px;
+    border-radius: 7px;
+    border: none;
+}
+
+.final-text {
+    text-align: center;
+    color: rgb(255, 105, 132);
+}
+
+.icon{
+    text-align: center;
+    padding: 35px;
+}
+
+.icon1{
+    margin-right: 10px;
+}
+
+
+
